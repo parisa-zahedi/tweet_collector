@@ -1,5 +1,5 @@
 <!-- Parts of this template are inspired by https://github.com/othneildrew/Best-README-Template -->
-
+[![DOI](https://sandbox.zenodo.org/badge/496202590.svg)](https://handle.test.datacite.org/10.5072/zenodo.439517)
 # tweet_collector
 
 <!-- Include Github badges here (optional) -->
